@@ -41,7 +41,7 @@ class Proram
                 }
             }
         }
-        Console.WriteLine("\nResult of the Matrix:");
+        Console.WriteLine("\nOutput:");
         for (int i = 0;i < matrix; i++)
         {
             for (int j = 0; j < matrix; j++)
